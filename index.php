@@ -1,3 +1,5 @@
 <?php
-echo "Arquivo editado";
+echo "Arquivo editado 321 =)";
+
+echo "Oiii";
 ?>

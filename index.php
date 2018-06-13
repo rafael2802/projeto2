@@ -1,5 +1,5 @@
 <?php
-echo "Arquivo editado 321 =)";
+echo "Arquivo editado 123";
 
-echo "Oiii";
+echo "Conflito";
 ?>

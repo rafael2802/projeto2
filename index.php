@@ -1,3 +1,3 @@
 <?php
-echo "Meu primeiro código PHP";
+echo "Arquivo editado";
 ?>
